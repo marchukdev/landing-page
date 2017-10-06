@@ -1,0 +1,157 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #f8f8f8;
+  font-family: 'Arial', sans-serif;
+}
+
+h1 {
+  font-size: 72px;
+  font-weight: bold;
+  color: #fff;
+}
+
+h1 {
+  font-size: 72px;
+  font-weight: bold;
+  color: #fff;
+}
+
+h2 {
+  font-size: 36px;
+  font-weight: bold;
+  color: #333;
+}
+
+h3 {
+  font-size: 30px;
+  font-weight: bold;
+  color: #fff;
+}
+
+p {
+  font-size: 18px;
+  color: #333;
+}
+
+#header {
+  background-image: url(../images/header-bg.jpg);
+  height: 799px;
+  background-size: cover;
+  background-attachment: fixed;
+  text-align: center;
+}
+
+#header h1 {
+  padding-top: 289px;
+  padding-bottom: 14px;
+}
+
+#header ul {
+  list-style: none;
+  margin-top: 43px;
+}
+
+#header li {
+  margin: 0 17px;
+}
+
+#header ul li {
+  display: inline-block;
+}
+
+#header li a {
+  font-size: 0;
+  display: block;
+  width: 163px;
+  height: 50px;
+}
+
+.content {
+  width: 1064px;
+  margin: 0 auto;
+}
+
+.row {
+  overflow: hidden;
+  padding: 50px 0;
+}
+
+.left {
+  float: left;
+  width: 500px;
+}
+
+.right {
+  float: right;
+  width: 490px;
+}
+
+.row h2 {
+  margin: 70px 0 22px 0;
+}
+
+#footer {
+  background-image: url(../images/footer-bg.jpg);
+  height: 531px;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+#footer .content {
+  overflow: hidden;
+}
+
+#footer h2 {
+  font-weight: normal;
+  color: #fff;
+  width: 440px;
+  float: left;
+  margin-top: 247px;
+}
+
+#footer ul {
+  float: right;
+  list-style: none;
+  margin-right: 6px;
+  margin-top: 241px;
+}
+
+#footer li {
+  float: left;
+  margin-left: 35px;
+}
+
+#footer ul li a {
+  font-size: 0;
+  display: block;
+  width: 163px;
+  height: 50px;
+}
+
+.twitter {
+  background-image: url(../images/u85.png);
+}
+
+.google {
+  background-image: url(../images/u80.png);
+}
+
+.vk {
+  background-image: url(../images/u90.png);
+}
+
+.twitter:hover {
+  background-image: url(../images/u85-r.png);
+}
+
+.google:hover {
+  background-image: url(../images/u80-r.png);
+}
+
+.vk:hover {
+  background-image: url(../images/u90-r.png);
+}
