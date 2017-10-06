@@ -1,5 +1,5 @@
-# Photoshop files
-*.psd
+# source folder
+source/
 
 # Windows Database Files
 *.db
